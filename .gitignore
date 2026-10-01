@@ -8,8 +8,6 @@
 # testing
 /coverage
 
-# production
-/build
 
 # misc
 .DS_Store
@@ -25,3 +23,8 @@ yarn-error.log*
 .idea
 .env
 
+
+# next
+/.next/
+/out/
+next-env.d.ts
